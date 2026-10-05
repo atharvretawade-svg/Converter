@@ -1,0 +1,19 @@
+TEXT-TO-SPEECH APPLICATION
+=========================
+
+Project Type: Python Mini Project
+
+Main File:
+text_to_speech.py
+
+Required Library:
+pyttsx3
+
+Run:
+1. Install Python 3.
+2. Open Command Prompt in this folder.
+3. Run: pip install -r requirements.txt
+4. Run: python text_to_speech.py
+
+Alternative on Windows:
+Double-click run.bat
